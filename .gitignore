@@ -1,5 +1,6 @@
 *.pdf
 *.odt
 *.odp
-data/
-figs/
+data/*
+figs/*
+.ipynb_checkpoints
